@@ -1,0 +1,8 @@
+{
+  "name": "my-hackathon-project",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "eslint src --no-eslintrc --env es2021 --parser-options=ecmaVersion:2021 || true",
+    "build": "echo 'Build step placeholder — replace with real build command'"
+  }
+}
