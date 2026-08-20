@@ -26,4 +26,4 @@ npm run dev
 ## Contributing
 1. Branch off main: `git checkout -b feature/your-feature`
 2. Commit with conventional format: `feat: add X`
-3. Open a PR against main, tag a reviewer
+3. Open a PR against main, tag a reviewertest
